@@ -7,6 +7,7 @@
   <ItemGroup>
     <Folder Include="DynamicDictionary\" />
     <Folder Include="ConsoleTools\" />
+    <Folder Include="Enumeration\" />
     <Folder Include="Tools\" />
   </ItemGroup>
 
